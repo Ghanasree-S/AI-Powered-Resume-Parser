@@ -36,7 +36,7 @@ pip install tensorflow keras flask pdfplumber nltk numpy pandas scikit-learn pho
 
 1. *Clone this repository:*
 ```bash
-git clone https://github.com/your-username/resume-parser.git
+https://github.com/Ghanasree-S/AI-Powered-Resume-Parser.git
 ```
 2. *Navigate into the project directory:*
 ```bash
