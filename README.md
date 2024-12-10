@@ -29,27 +29,27 @@ Before running this project, ensure you have the following installed:
 - phonenumbers
 
 *Install the required Python packages using:*
-bash
+```bash
 pip install tensorflow keras flask pdfplumber nltk numpy pandas scikit-learn phonenumbers
-
+```
 ## How to Run
 
 1. *Clone this repository:*
-bash
+```bash
 git clone https://github.com/your-username/resume-parser.git
-
+```
 2. *Navigate into the project directory:*
-bash
+```bash
 cd resume-parser
-
+```
 3. *Install dependencies:*
-bash
+```bash
 pip install -r requirements.txt
-
+```
 4. *Run the Flask app:*
-bash
+```bash
 python app.py
-
+```
 5. *Open your browser and go to http://127.0.0.1:5000/ to access the resume upload interface.*
 
 ## How It Works
