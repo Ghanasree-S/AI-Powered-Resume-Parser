@@ -32,19 +32,6 @@ Before running this project, ensure you have the following installed:
 bash
 pip install tensorflow keras flask pdfplumber nltk numpy pandas scikit-learn phonenumbers
 
-## Project Structure
-.
-├── app.py                # Main Flask app
-├── model/
-│   ├── resume_parser_model.h5  # Pre-trained model for job title classification
-├── uploads/              # Directory where uploaded resumes will be stored
-├── templates/
-│   └── index.html        # HTML template for the web interface
-├── static/               # Directory for static files (if any)
-├── README.md             # Project documentation
-└── requirements.txt      # Python package dependencies
-
-
 ## How to Run
 
 1. *Clone this repository:*
